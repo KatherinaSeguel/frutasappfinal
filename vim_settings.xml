@@ -10,6 +10,9 @@
     <filemarks />
     <jumps />
   </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>

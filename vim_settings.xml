@@ -7,7 +7,11 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroesApi.kt" timestamp="1613345061561">
+        <mark key="[" line="2" column="25" />
+      </file>
+    </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">

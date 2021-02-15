@@ -14,12 +14,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/RetrofitCliente.kt" timestamp="1613350250542">
         <mark key="[" line="8" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinalotra/app/src/main/java/com/example/frutos/Repository.kt" timestamp="1613354456171" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/viewModel/SuperHeroeViewModel.kt" timestamp="1613356817515">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinalotra/app/src/main/java/com/example/frutos/Repository.kt" timestamp="1613355493071" />
       <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinalotra/app/src/main/java/com/example/frutos/model/remoto/RetrofitCliente.kt" timestamp="1613350214909" />
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613355362452">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613356520209">
+        <mark key="[" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/SuperHeroesApi.kt" timestamp="1613350064200">
         <mark key="[" line="10" column="53" />
@@ -32,14 +33,22 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0OiBUaHJvd2FibGUpIHsK</text>
+      <register name="1" type="4">
+        <text>{
+                when (response.code()) {
+
+                }
+              Log.e(&quot;Repository&quot;,response.body().toString())
+            }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>}</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0OiBUaHJvd2FibGUpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>}</text>
       </register>
     </registers>
   </component>

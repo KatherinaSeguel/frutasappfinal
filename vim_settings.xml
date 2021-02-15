@@ -14,8 +14,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/viewModel/SuperHeroeViewModel.kt" timestamp="1613356817515">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613396212175">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesDao.kt" timestamp="1613397909110">
+        <mark key="[" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613397557274">
+        <mark key="[" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613356520209">
         <mark key="[" line="25" column="24" />
@@ -29,6 +32,7 @@
       <file name="/fragment.java" timestamp="1613350742867">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/pojos/Images.kt" timestamp="1613396597170" />
     </filemarks>
     <jumps />
   </component>

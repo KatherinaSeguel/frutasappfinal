@@ -24,11 +24,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesDao.kt" timestamp="1613397909110">
         <mark key="[" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613397557274">
-        <mark key="[" line="14" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613413512057">
+        <mark key="[" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613356520209">
-        <mark key="[" line="25" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613413713822">
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/SuperHeroesApi.kt" timestamp="1613350064200">
         <mark key="[" line="10" column="53" />

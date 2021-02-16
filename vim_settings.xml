@@ -39,8 +39,9 @@
       <file name="/fragment.java" timestamp="1613350742867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613433202998">
-        <mark key="[" line="22" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613437668438">
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
     </filemarks>
     <jumps />
@@ -56,13 +57,13 @@
             }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">ICh2YXIgbVBhc3N0aGVEYXRhOlBhc3N0aGVEYXRhKQ==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0OiBUaHJvd2FibGUpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">ICh2YXIgbVBhc3N0aGVEYXRhOlBhc3N0aGVEYXRhKQ==</text>
       </register>
     </registers>
   </component>

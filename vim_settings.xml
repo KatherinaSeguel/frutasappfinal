@@ -17,9 +17,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1613496816203">
+      <file name="/Dummy.txt" timestamp="1613498179650">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/FirstFragment.kt" timestamp="1613498281076" />
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" timestamp="1613483971893">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="44" column="0" />
@@ -30,7 +31,7 @@
         <mark key="[" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/FirstFragment.kt" timestamp="1613497135990">
-        <mark key="[" line="56" column="10" />
+        <mark key="[" line="57" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/res/values/strings.xml" timestamp="1613496107061">
         <mark key="[" line="7" column="36" />
@@ -57,9 +58,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613485818492">
         <mark key="[" line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDatabase.kt" timestamp="1613480366368">
-        <mark key="[" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/res/layout/fragment_second.xml" timestamp="1613495717424">
         <mark key="[" line="33" column="59" />

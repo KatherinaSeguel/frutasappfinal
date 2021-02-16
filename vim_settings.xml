@@ -18,8 +18,8 @@
         <mark key="]" line="48" column="31" />
         <mark key="." line="48" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/FirstFragment.kt" timestamp="1613488319885">
-        <mark key="[" line="42" column="76" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/FirstFragment.kt" timestamp="1613491450831">
+        <mark key="[" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesDatabase.kt" timestamp="1613481057209">
         <mark key="[" line="8" column="25" />
@@ -34,24 +34,24 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDatabase.kt" timestamp="1613480366368">
         <mark key="[" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613489550136">
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613491133339">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1613488372458">
+      <file name="/Dummy.txt" timestamp="1613491676412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/UI/JuegosAdapter.kt" timestamp="1613489182593">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="21" column="105" />
-        <mark key="]" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/UI/JuegosAdapter.kt" timestamp="1613491000642">
+        <mark key="'" line="11" column="19" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDao.kt" timestamp="1613480097376">
         <mark key="[" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613488348231">
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613491506735">
         <mark key="[" line="51" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/viewModel/JuegosViewModel.kt" timestamp="1613486732736">
@@ -59,7 +59,7 @@
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/ui/FrutosAdapter.kt" timestamp="1613489229140" />
+      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/ui/FrutosAdapter.kt" timestamp="1613490736352" />
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/viewModel/SuperHeroeViewModel.kt" timestamp="1613487535257">
         <mark key="[" line="9" column="25" />
       </file>

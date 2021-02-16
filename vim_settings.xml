@@ -8,7 +8,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1613430762682">
+      <file name="/Dummy.txt" timestamp="1613441198051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/RetrofitCliente.kt" timestamp="1613350250542">
@@ -17,8 +17,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesDatabase.kt" timestamp="1613398945543">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613418890057">
-        <mark key="[" line="22" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613441478182">
+        <mark key="[" line="58" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/ui/FrutosAdapter.kt" timestamp="1613439046581" />
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/viewModel/SuperHeroeViewModel.kt" timestamp="1613417573360">
@@ -39,8 +39,8 @@
       <file name="/fragment.java" timestamp="1613350742867">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613438352738">
-        <mark key="[" line="32" column="103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613440886153">
+        <mark key="[" line="11" column="56" />
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>

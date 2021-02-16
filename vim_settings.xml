@@ -18,8 +18,8 @@
         <mark key="]" line="48" column="31" />
         <mark key="." line="48" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/FirstFragment.kt" timestamp="1613487703428">
-        <mark key="[" line="20" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/FirstFragment.kt" timestamp="1613488319885">
+        <mark key="[" line="42" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesDatabase.kt" timestamp="1613481057209">
         <mark key="[" line="8" column="25" />
@@ -27,37 +27,39 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/DetalleJuegos.kt" timestamp="1613480080730">
         <mark key="[" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/ui/FrutosViewModel.kt" timestamp="1613488591204" />
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613479814805">
         <mark key="[" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDatabase.kt" timestamp="1613480366368">
         <mark key="[" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/remoto/RetrofitCliente.kt" timestamp="1613478760999">
-        <mark key="[" line="5" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/UI/SuperHeroesAdapter.kt" timestamp="1613489550136">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/pojos/Detalle.kt" timestamp="1613479628831" />
-      <file name="/Dummy.txt" timestamp="1613487198444">
+      <file name="/Dummy.txt" timestamp="1613488372458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/RetrofitCliente.kt" timestamp="1613479120654">
-        <mark key="[" line="8" column="74" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/UI/JuegosAdapter.kt" timestamp="1613489182593">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="21" column="105" />
+        <mark key="]" line="8" column="20" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDao.kt" timestamp="1613480097376">
         <mark key="[" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613488014826">
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/FirstFragment.kt" timestamp="1613488348231">
         <mark key="[" line="51" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/AndroidManifest.xml" timestamp="1613478074297" />
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/viewModel/JuegosViewModel.kt" timestamp="1613486732736">
         <mark key="[" line="11" column="64" />
         <mark key="]" line="10" column="3" />
         <mark key="." line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/remoto/JuegosApi.kt" timestamp="1613478111644">
-        <mark key="[" line="8" column="20" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/ui/FrutosAdapter.kt" timestamp="1613489229140" />
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/viewModel/SuperHeroeViewModel.kt" timestamp="1613487535257">
         <mark key="[" line="9" column="25" />
       </file>
@@ -67,14 +69,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613485818492">
         <mark key="[" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/SuperHeroesApi.kt" timestamp="1613478718673">
-        <mark key="[" line="10" column="53" />
+      <file name="/fragment.java" timestamp="1613488579205">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/frutasappfinal2/app/src/main/java/com/example/frutos/model/local/local/entities/DetalleFrutos.kt" timestamp="1613479738094" />
     </filemarks>
     <jumps>
       <jump line="29" column="0" filename="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" />
+      <jump line="2" column="19" filename="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/UI/JuegosAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -83,7 +85,7 @@
         <text encoding="base64">IHByaXZhdGUgdmFsIG1SZXBvc2l0b3J5IDogSnVlZ29zUmVwb3NpdG9yeQogICAgICAgIGdldCgpIHsKICAgICAgICAgICAgVE9ETygpCiAgICAgICAgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByaXZhdGUgdmFsIG1SZXBvc2l0b3J5IDogSnVlZ29zUmVwb3NpdG9yeQogICAgICAgIGdldCgpIHsKICAgICAgICAgICAgVE9ETygpCiAgICAgICAgfQ==</text>
+        <text>{</text>
       </register>
       <register name="2" type="4">
         <text>{
@@ -97,7 +99,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0OiBUaHJvd2FibGUpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>{</text>
       </register>
     </registers>
   </component>

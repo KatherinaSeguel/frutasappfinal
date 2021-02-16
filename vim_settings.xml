@@ -12,12 +12,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1613480927793">
-        <mark key="[" line="3" column="20" />
+      <file name="/Dummy.txt" timestamp="1613482323249">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" timestamp="1613482136382">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="17" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" timestamp="1613483971893">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/remote/RetrofitCliente.kt" timestamp="1613479120654">
         <mark key="[" line="8" column="74" />
@@ -50,8 +52,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/local/SuperHeroesEntity.kt" timestamp="1613479814805">
         <mark key="[" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613481729295">
-        <mark key="[" line="35" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/repaso/app/src/main/java/com/example/repaso/Model/SuperHeroeRepository.kt" timestamp="1613483937228">
+        <mark key="[" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/local/JuegosDatabase.kt" timestamp="1613480366368">
         <mark key="[" line="8" column="20" />
@@ -68,6 +70,7 @@
     </filemarks>
     <jumps>
       <jump line="29" column="0" filename="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/Repechaje/app/src/main/java/com/example/repechaje/Model/JuegosRepository.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -81,13 +84,13 @@
             }</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICh2YXIgbVBhc3N0aGVEYXRhOlBhc3N0aGVEYXRhKQ==</text>
+        <text>(</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0OiBUaHJvd2FibGUpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICh2YXIgbVBhc3N0aGVEYXRhOlBhc3N0aGVEYXRhKQ==</text>
+        <text>(</text>
       </register>
     </registers>
   </component>
